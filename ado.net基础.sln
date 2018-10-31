@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8DataAdapter", "8DataAdapte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "练习2 sqlhelper", "练习2 sqlhelper\练习2 sqlhelper.csproj", "{766F07C8-1CAD-43F5-BCDE-315D5841A4A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "练习1 winform增伤查改", "练习1 winform增伤查改\练习1 winform增伤查改.csproj", "{B5D5794F-5B2D-402F-BBC5-C03249F39572}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{766F07C8-1CAD-43F5-BCDE-315D5841A4A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{766F07C8-1CAD-43F5-BCDE-315D5841A4A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{766F07C8-1CAD-43F5-BCDE-315D5841A4A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5D5794F-5B2D-402F-BBC5-C03249F39572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D5794F-5B2D-402F-BBC5-C03249F39572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D5794F-5B2D-402F-BBC5-C03249F39572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D5794F-5B2D-402F-BBC5-C03249F39572}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
